@@ -1,0 +1,5 @@
+print('a=') 
+a = int(input())
+print('b=') 
+b = int(input())
+print(a>b)
